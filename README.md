@@ -11,4 +11,4 @@ Pop a Mole AR Game made for AR-CADE Challenge By LOAK
 
 **Gameplay**: `Pop-A-Mole AR Game lets you tap virtual moles that pop up in your real-world surroundings. Pop as many moles as you can within the time limit, aim for high scores, and challenge your reflexes in this addictive AR experience.` <br>
 
-**Video Link**: `.`
+**Video Link**: `https://youtu.be/XzSbIBqgxdM`
