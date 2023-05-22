@@ -1,10 +1,6 @@
 # Pop-a-Mole-AR-Game
 Pop a Mole AR Game made for AR-CADE Challenge By LOAK
 
-
-# Butterfly-Catcher-AR-Game
-Butterfly Catcher AR Game Experience for LOAK
-
 **Creator Name**: `Husnain Ali` <br>
 
 **Email**: `husnainzulfiqarr@gmail.com` <br>
